@@ -1,0 +1,7 @@
+1.Học Python cơ bản tới nâng cao:
+
+- Link moocs: https://funix.udemy.com/course/the-complete-python-course/
+- Link slide: 
+- Thời gian: 1 tuần 3 ngày ( 02/04 -> 07/04 )
+- Tài liệu: Lưu toàn bộ kiến thức trong folder "Python_basic"
+- Tool: Thony.
